@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://chris-sutherland.github.com/barrhead/atom.xml" rel="self"/>
   <link href="http://chris-sutherland.github.com/barrhead/"/>
-  <updated>2012-07-20T00:02:16-06:00</updated>
+  <updated>2012-07-20T00:16:38-06:00</updated>
   <id>http://chris-sutherland.github.com/barrhead/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[thursday evening post]]></title>
+    <link href="http://chris-sutherland.github.com/barrhead/blog/2012/07/20/thursday-evening-post/"/>
+    <updated>2012-07-20T00:11:00-06:00</updated>
+    <id>http://chris-sutherland.github.com/barrhead/blog/2012/07/20/thursday-evening-post</id>
+    <content type="html"><![CDATA[<p>well we got the first step</p>
+]]></content>
+  </entry>
   
 </feed>
